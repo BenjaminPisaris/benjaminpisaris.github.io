@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://i.imgur.com/t30NLCq.png");
+}
+
+.container {
+    background-color: #f8f9fa;
+}
+
+.heading {
+    color: #6EA8A4;
+    padding: 15px;
+    font-size: 24pt;
+}
+
+/*hosted on web instead of local because for some reason the directory wouldn't work locally*/

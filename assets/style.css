@@ -2,14 +2,23 @@ body {
     background-image: url("https://i.imgur.com/t30NLCq.png");
 }
 
+
 .container {
     background-color: #f8f9fa;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .heading {
     color: #6EA8A4;
-    padding: 15px;
+    padding-left: 15px;
     font-size: 24pt;
+}
+
+
+/*img {
+    padding-bottom: 15px;
 }
 
 /*hosted on web instead of local because for some reason the directory wouldn't work locally*/

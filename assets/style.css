@@ -16,6 +16,10 @@ body {
     font-size: 24pt;
 }
 
+.footerZ {
+    border-top: 1px solid black;
+}
+
 
 /*img {
     padding-bottom: 15px;
